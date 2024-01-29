@@ -99,6 +99,7 @@
         background-color: rgba(0, 0, 0, 0);
     }
     .ResumeDownloadButton{
+        text-decoration: none;
         display: flex;
         justify-content: center;
         align-items: center;
